@@ -2,7 +2,7 @@
 
 ## Opis
 
-Skrypt `api_tester.py` jest narzędziem do automatycznego testowania różnych endpointów API przy użyciu narzędzia `curl`. Skrypt wysyła żądania HTTP do publicznego API JSONPlaceholder i sprawdza, czy odpowiedzi są poprawne (statusy HTTP i kluczowe elementy w odpowiedziach JSON).
+Skrypt `zadanie1.py` / `zadanie2.py` jest narzędziem do automatycznego testowania różnych endpointów API przy użyciu narzędzia `curl`. Skrypt wysyła żądania HTTP do publicznego API JSONPlaceholder i sprawdza, czy odpowiedzi są poprawne (statusy HTTP i kluczowe elementy w odpowiedziach JSON).
 
 ## Funkcje
 
@@ -29,4 +29,4 @@ Skrypt `api_tester.py` jest narzędziem do automatycznego testowania różnych e
 1. Upewnij się, że masz zainstalowany Python 3.x oraz narzędzie `curl`.
 2. Uruchom skrypt:
    ```bash
-   python api_tester.py
+   python zadanie1.py
